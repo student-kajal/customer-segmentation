@@ -20,8 +20,6 @@ Segment customers based on behavioral and transactional attributes like:
 
 ## 📷 Sample Output
 
-### 🎞️ Auto-generated Slide:
-
 ![PCA Cluster Plot](https://github.com/student-kajal/customer-segmentation/blob/main/image.png)
 
 > 📂 [View PPT File →](https://github.com/student-kajal/customer-segmentation/blob/main/customer_segmentation_meesho.pptx)
